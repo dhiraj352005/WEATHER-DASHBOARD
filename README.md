@@ -66,4 +66,4 @@ It also helped me understand how to debug issues in React, write clean and reada
 Conclusion
 Overall, this project was a great learning experience and gave me a solid foundation in building practical applications using React.js. It combines many essential frontend development skills and provides a base that can be extended further by adding more features like forecast data, unit conversion (Celsius/Fahrenheit), location-based auto-detection, and dark/light mode support.
 
-
+Output: <img width="1016" height="558" alt="Image" src="https://github.com/user-attachments/assets/01cf5c5d-7c51-4b74-bd6e-78c8fc7da494" />
